@@ -1,0 +1,7 @@
+name: nick
+age : 18
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8009/eureka/
